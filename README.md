@@ -1,2 +1,2 @@
 # sysinfo
-Lightweight go program that spits out various system information.
+Lightweight go program that spits out system information.
